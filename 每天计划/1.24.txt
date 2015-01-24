@@ -3,3 +3,14 @@ Q：用eclipse怎么设计图形界面的？
 2.如果可以设计了，设计界面
 3.邮件提取并分析的程序，出错在哪里？
 每一部分的函数是如何实现的？
+
+visual editor安装说明http://andy136566.iteye.com/blog/851692
+
+
+用eclipse进行可视化Java界面设计
+http://www.yesky.com/493/1929993.shtml
+
+
+
+eclipse 3.4版本下载
+http://www.eclipse.org/downloads/packages/eclipse-classic-342/ganymedesr2
